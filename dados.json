@@ -1,0 +1,34 @@
+{
+  "perfumes": [
+    {
+      "id": "1",
+      "nome": "alma de flores",
+      "descricao": "asdasdsadasd",
+      "preco": 120
+    },
+    {
+      "id": "2",
+      "nome": "cacharel",
+      "descricao": "asdasdsadasd",
+      "preco": 150
+    },
+    {
+      "id": "42e1",
+      "nome": "asdasd",
+      "descricao": "asdasdsadasd",
+      "preco": "12"
+    },
+    {
+      "id": "e207",
+      "nome": "ssd",
+      "descricao": "asdfsadsa",
+      "preco": "123"
+    },
+    {
+      "id": "706a",
+      "nome": "qwerty",
+      "descricao": "qertuolkjhgfd",
+      "preco": "1234567"
+    }
+  ]
+}
